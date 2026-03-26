@@ -1,3 +1,4 @@
 Version 1
 Hotfix in production
 Login feature added
+Minor update
